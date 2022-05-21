@@ -26,7 +26,9 @@ I'm a newbie Full Stack Developer on a mission to change my reality and create m
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/
-</div> </br>
+</div> 
+
+<br></br>
 
 **Must haves include**🔥
 <div display="flex">
