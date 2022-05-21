@@ -9,9 +9,7 @@ I'm a newbie Full Stack Developer on a mission to change my reality and create m
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</div>
-
-<br></br>
+</div> &nbsp  
 
 **My Stack looks like**👩🏾‍💻
 
@@ -20,9 +18,7 @@ I'm a newbie Full Stack Developer on a mission to change my reality and create m
  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-</div> 
-
-<br></br>
+</div> &nbsp  
 
 **My favourite tools are**💖
 <div display="flex">
@@ -30,9 +26,7 @@ I'm a newbie Full Stack Developer on a mission to change my reality and create m
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/
-</div> 
-
-<br></br>
+</div> &nbsp  
 
 **Must haves include**🔥
 <div display="flex">
