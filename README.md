@@ -62,7 +62,7 @@ I'm a newbie Full Stack Developer on a mission to change my reality and create m
   <a href="https://dev.to/iriahbee">
   <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >
   </a>
-  <img alt="Instagram" src="https://img.shields.io/badge/<reactherjs>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img alt="Instagram" src="https://img.shields.io/badge/@reactherjs-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </div>
 
 ### ⚡ Fun fact
