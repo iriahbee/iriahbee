@@ -2,7 +2,7 @@
 
 Thank you for visiting my little corner of the internet.🙋🏾‍
 
-I'm a newbie Full Stack Developer on a mission to change my reality and create meaningful solutions.
+Fresh out of Bootcamp on a mission to change my reality and create meaningful solutions.
 
 **My main lanaguages are**🧑🏾‍💻
 <div display="flex">
